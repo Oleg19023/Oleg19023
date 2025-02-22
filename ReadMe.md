@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔨 Сейчас работаю над веб-проектами с использованием HTML, CSS и JavaScript. Мой сайт: https://crazyfire-app.web.app<br>🤝 Ищу сотрудничество в: разработке фронтенд-проектов.<br>🆘 Нужна помощь с: продвинутым JavaScript и оптимизацией производительности сайтов.<br>📚 Изучаю: React и улучшаю навыки UI/UX-дизайна.<br>💡 Можете спросить меня о: фронтенд-разработке, стилизации сайтов и создании интерактивного UI.<br>🎮 Интересный факт: обожаю компьютерные игры и эксперименты с веб-анимацией.
+# 💫 About Me:  
+🔨 Currently working on web projects using HTML, CSS, and JavaScript. My website: https://crazyfire-app.web.app<br>  
+🤝 Looking to collaborate on frontend development projects.<br>  
+🆘 Need help with advanced JavaScript and website performance optimization.<br>  
+📚 Learning React and improving UI/UX design skills.<br>  
+💡 Ask me about frontend development, website styling, and interactive UI.<br>  
+🎮 Fun fact: I love playing computer games and experimenting with web animations.<br>
 
 
 ## 🌐 Socials:
